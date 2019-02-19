@@ -1,3 +1,4 @@
+//Program for truth table
 #include<iostream>
  
 using namespace std;
